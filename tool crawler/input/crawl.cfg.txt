@@ -1,0 +1,10 @@
+#url to crawl
+urls = https://dantri.com.vn/
+same.domain = true
+output.type = file
+output.folder = E:/output/output
+output.file = E:/ouput/dantri.txt
+max.item.check = 10
+id.containers = wrapper_container,body
+class.containers = container,content,pContent,main
+
