@@ -1,0 +1,10 @@
+#url to crawl
+urls = http://24h.com.vn/
+same.domain = true
+output.type = file
+output.folder = D:/output2/
+output.file = D:/24h.txt
+max.item.check = 10000
+id.containers = wrapper_container,body
+class.containers = container,content,pContent,main
+
